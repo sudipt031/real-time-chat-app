@@ -1,7 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 import { io } from "socket.io-client";
 
-cgit add .
 const COLORS = [
   "#FF6B6B", "#4ECDC4", "#45B7D1", "#96CEB4",
   "#FECA57", "#FF9FF3", "#54A0FF", "#5F27CD",
